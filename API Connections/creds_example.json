@@ -1,0 +1,6 @@
+{
+    "tone_analyzer" : {
+        "username" : "<USERNAME_HERE>",
+        "password" : "<PASSWORD_HERE>"
+    }
+}
